@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#app {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    background-color: aquamarine;
+    display: inline-block;  
+    align-items: center;
+    text-align: center;
+    left: 30%;
+    top: 140px;
+}
+#app button {
+    margin-top: 60px;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+#app p {
+    margin-top: 10px;
+    font-size: 20px;
+}
